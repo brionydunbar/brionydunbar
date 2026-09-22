@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Briony ✨
 
-I'm a Code First Girls software and data engineering graduate who enjoys building things with Python and working with SQL databases. I've also completed a CFG +Masters in DevOps and Cloud.
+I'm a Makers x Kraken apprentice and Code First Girls software and data engineering graduate who enjoys building things with Python and working with SQL databases. I've also completed a CFG +Masters in DevOps and Cloud.
 
 ## 🚀 What I'm Working On
 
-* 🔭 Currently working on: **mini coding projects (pomodoro timer and to do list app)**
-* 🌱 Currently learning: **brushing up on my frontend skills via FreeCodeCamp**
+* 🔭 Currently working on: **Makers bootcamp projects**
+* 🌱 Currently learning: **software development skills in the Makers bootcamp**
 
 ## 🛠️ Tech Stack
 
